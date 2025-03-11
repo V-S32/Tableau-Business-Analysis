@@ -28,4 +28,4 @@ The analysis utilizes three key tables:
 ## Conclusion
 This project provides data-driven insights into the profitability of beverage business and offers actionable recommendations for sales and profit optimization.
 
-*[Click Me to Go to Tableau Viz](https://public.tableau.com/views/SalesAnalysisforabusiness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+*[Click Me to Go to Tableau Viz](https://public.tableau.com/views/Luxe-Co_-AnalyzingBusinessPerformance/Viz?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
